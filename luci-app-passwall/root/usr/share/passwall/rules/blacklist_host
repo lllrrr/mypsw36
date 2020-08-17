@@ -8,3 +8,7 @@ openwrt.proxy.ustclug.org
 easylist-downloads.adblockplus.org
 adblockplus.org
 caddyserver.com
+dns.google
+cloudflare-dns.com
+one.one.one.one
+dns.quad9.net
